@@ -1,5 +1,3 @@
-# Alfa-MIPT
-
 <img src="https://raw.githubusercontent.com/akscent/Hacks/main/Sibur-Challenge/img/banner.png">
 
 # Описание задачи
